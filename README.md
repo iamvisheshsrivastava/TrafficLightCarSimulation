@@ -8,7 +8,6 @@ Traffic Light Car Simulation is a **C++** project that demonstrates the interact
 
 <div align="center">
   <img src="images/traffic-light-simulation.png" alt="Traffic Light Simulation Illustration" width="400"/>
-  <p>Illustration of Cars and Traffic Lights in Action</p>
 </div>
 
 
